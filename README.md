@@ -9,4 +9,7 @@
 ### O negócio é bom mesmo, reconheceu até meu "bom" inglês:
 ### ![image](https://github.com/Huguinhu/LanguageStudio/assets/144286137/7b67c76c-716f-4654-951c-9d742b17209f)
 
+## Exemplo input
+### Que bom que majoritariamente foi positivo!
+### ![image](https://github.com/Huguinhu/LanguageStudio/assets/144286137/c39596b7-657b-474f-b218-7d11999b7c94)
 
